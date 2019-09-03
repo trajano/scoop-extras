@@ -14,10 +14,7 @@
         }
     },
     "bin": [
-        "putty.exe",
-        "puttygen.exe",
         "pscp.exe",
-        "pageant.exe",
         "psftp.exe",
         "plink.exe"
     ],
@@ -29,10 +26,6 @@
         [
             "pageant.exe",
             "Pageant"
-        ],
-        [
-            "psftp.exe",
-            "PSFTP"
         ],
         [
             "puttygen.exe",
